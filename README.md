@@ -8,7 +8,7 @@ It is fully responsive, modern, and designed to highlight my work as a **Softwar
 
 ## 🚀 Live Demo
 
-Check out the live portfolio: [YourLiveLinkHere](https://your-portfolio-link.com)
+Check out the live portfolio: (https://areeba-portfolio-seven.vercel.app/)
 
 ---
 
