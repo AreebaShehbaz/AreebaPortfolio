@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🖥️ Areeba Portfolio Website
 
 This is my **personal portfolio website** built with **React** to showcase my projects, skills, and experience.  
@@ -102,7 +100,5 @@ npm run build
 
 This project is for **portfolio and learning purposes**. You can explore, fork, or customize it for educational use.
 
-````
 
----
 
