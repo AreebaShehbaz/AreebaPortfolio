@@ -24,6 +24,7 @@ export default function Skills() {
     { name: ".NET", icon: "🖥️", level: 75 },
     { name: "WordPress", icon: "📝", level: 85 },
     { name: "Shopify", icon: "🛒", level: 78 },
+    { name: "Flask", icon: "🍶", level: 85 }
   ],
   "AI & ML": [
     { name: "TensorFlow", icon: "🧠", level: 88 },

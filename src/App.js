@@ -10,7 +10,9 @@ import Skills from "./components/Skills";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
-import ParticleBackground from "./components/background"
+import ParticleBackground from "./components/background";
+import { Analytics } from "@vercel/analytics/react";
+
 
  function App() {
   return (
@@ -34,9 +36,9 @@ import ParticleBackground from "./components/background"
       <SectionDivider />
       
       <Contact />
-      
+       <Analytics />
       <footer className="text-center py-8 text-gray-500">
-        <p>© 2025 Areeba Shehbaz. Built with React & Framer Motion</p>
+        <p>© 2025 Areeba Shehbaz. Built with React</p>
       </footer>
     </div>
   );
